@@ -1,0 +1,13 @@
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.MainForm.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Properties.Resources.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Login.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.ManageForm.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.NewEmp.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.DetailForm.resources
+\\mac\home\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.About.resources
